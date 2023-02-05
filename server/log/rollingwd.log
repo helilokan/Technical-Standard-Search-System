@@ -1,0 +1,24 @@
+2022-07-01 18:29:35,053 [test] [FATAL] [onConnection@../include/EchoServer.h,186] 127.0.0.1:8888---->127.0.0.1:41492 has connected
+
+2022-07-01 18:32:37,902 [test] [FATAL] [onConnection@../include/EchoServer.h,186] 127.0.0.1:8888---->127.0.0.1:41508 has connected!
+
+2022-07-01 18:32:50,290 [test] [FATAL] [onMessage@../include/EchoServer.h,195] 127.0.0.1:8888---->127.0.0.1:41508 recv msg ð®Sü
+
+2022-07-01 18:32:57,424 [test] [FATAL] [onMessage@../include/EchoServer.h,195] 127.0.0.1:8888---->127.0.0.1:41508 recv msg ð®Sü
+
+2022-07-01 18:33:04,579 [test] [FATAL] [onClose@../include/EchoServer.h,205] 127.0.0.1:8888---->127.0.0.1:41508 has closed!
+
+2022-07-01 18:35:04,486 [test] [FATAL] [onConnection@../include/EchoServer.h,186] 127.0.0.1:8888---->127.0.0.1:41534 has connected!
+
+2022-07-01 18:35:10,202 [test] [FATAL] [onMessage@../include/EchoServer.h,195] 127.0.0.1:8888---->127.0.0.1:41534 recv msg pÉs¨ý
+
+2022-07-01 18:35:35,683 [test] [FATAL] [onMessage@../include/EchoServer.h,195] 127.0.0.1:8888---->127.0.0.1:41534 recv msg €Ö¨ùU
+
+2022-07-01 18:35:42,622 [test] [FATAL] [onClose@../include/EchoServer.h,205] 127.0.0.1:8888---->127.0.0.1:41534 has closed!
+
+2022-07-01 18:38:23,127 [test] [FATAL] [onConnection@../include/EchoServer.h,186] 127.0.0.1:8888---->127.0.0.1:41558 has connected!
+
+2022-07-01 18:38:25,122 [test] [FATAL] [onMessage@../include/EchoServer.h,195] 127.0.0.1:8888---->127.0.0.1:41558 recv msg  ãsþ
+
+2022-07-01 18:38:27,814 [test] [FATAL] [onClose@../include/EchoServer.h,205] 127.0.0.1:8888---->127.0.0.1:41558 has closed!
+
